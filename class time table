@@ -1,0 +1,28 @@
+       <!-- doctype html-->
+        <html lang="en">
+            <head>
+        <title></title>
+        </head>
+
+         <body>
+        <table>
+            <table border="1" cellspacing="6" cellpadding="10" height="400" width="400" bg color="green">
+        <thead>
+        <tr>
+        <th>Monday</th>
+         <th>Tuesday</th>
+         <th>Wednesday</th>
+         <th>Thursday</th>
+        <th>Friday</th>
+         </tr>
+         <tr>
+            <td>maths</td>
+            <td>science</td>
+            <td>tamil</td>
+            <td>english</td>
+            <td>hindi</td>
+         </tr>
+         </thead>
+         </table>
+         </body>
+         </html>
