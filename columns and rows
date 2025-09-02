@@ -1,0 +1,27 @@
+<!doctype html>
+       <html>
+       <title></title>
+       <body>
+       <table>
+      <table>
+       <table border="1" cellspacing="6" cellpadding="10" height="400" width="400" bg color="green">
+
+      <t head>
+      <tr>
+      <td></td>
+     <td></td>
+     <td></td>
+     </tr>
+     <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+     </tr>
+     <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+     </tr>
+      </table>
+      </body>
+     </html>
