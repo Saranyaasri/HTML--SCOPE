@@ -1,1 +1,25 @@
 
+      <!doctype html>
+       <html>
+       <title>student marks table</title>
+      <body>
+      <table>
+      <!--table-->
+      <table border = "1" cellspacing="6" cellpadding="10" height="400" width="400" bg color="green">
+      <thead>
+     <tr>
+     <th>rollnumber</th>
+     <th>name</th>
+     <th>subject</th>
+     <th>marks</th>
+     </tr>
+     <tr>
+        <td>100116150022</td>
+        <td>saranyaasri K</td>
+        <td>envi</td>
+        <td>84%</td>
+     </tr>
+    </thead>
+    </table>
+    </body>
+    </html>
