@@ -1,0 +1,17 @@
+           <!doctype html>
+           <html>
+            <head>
+            <title></title>
+            </head>
+            <body>
+            
+            <!--ordered list-->
+            <ol type=A>
+            <li>c language</il>
+           <li>c++</li>
+           <li>java</li>
+           <li>python</li>
+           <li>ui&ux</li>
+           </ol>
+           </body>
+           </html>
